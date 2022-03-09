@@ -1,0 +1,39 @@
+/**
+* @name Darius
+* @version 1.0
+* @description Purple Darius Theme
+* @author Just_Isa
+* @Source https://github.com/monstrousdev/themes
+* @website https://betterdiscord.app/theme/Reborn
+*/
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+@import url('https://fonts.googleapis.com/css2?family=Dosis');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--roundness: 50px;
+--main-color: #6E0576FF;
+--hover-color: #17C8FFFF;
+--home-color: #83068EFF;
+--home-size: 24px;
+--shadow: #0000004B;
+--background-image: url('https://i.imgur.com/2nOwlXI.jpg');
+--background-blur: 11px;
+--background-darkness: 0.6;
+--popup-background: url('https://s-media-cache-ak0.pinimg.com/originals/60/c4/bb/60c4bb55215c989b15b0fe144c73cf82.jpg');
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 2px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #FF00CAFF;
+--rs-idle-color: #8E5E0FFF;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #8D000036;
+--rs-phone-visible: block;
+--customFont: 'Dosis';
+}
