@@ -9,7 +9,6 @@
 @import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
 @import url('https://fonts.googleapis.com/css2?family=Dosis');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 :root {
 --roundness: 50px;
 --main-color: #6E0576FF;
@@ -20,7 +19,7 @@
 --background-image: url('https://i.imgur.com/2nOwlXI.jpg');
 --background-blur: 11px;
 --background-darkness: 0.6;
---popup-background: url('https://s-media-cache-ak0.pinimg.com/originals/60/c4/bb/60c4bb55215c989b15b0fe144c73cf82.jpg');
+--popup-background: url('https://static.wikia.nocookie.net/leagueoflegends/images/8/82/Noxus_LoR_Background.jpg/revision/latest/scale-to-width-down/1000?cb=20191022172320');
 --rs-small-spacing: 2px;
 --rs-medium-spacing: 2px;
 --rs-large-spacing: 4px;
